@@ -1,5 +1,6 @@
 {
-  "name": "idavoll/core-module",
+  "name": "sirval/core-module",
+  "version": "5.0.0",
   "type": "asgard-module",
   "description": "The core module for AsgardCMS. This is required for every install.",
   "keywords": [
@@ -12,6 +13,11 @@
       "name": "Nicolas Widart",
       "email": "info@asgardcms.com",
       "role": "Developer"
+    },
+    {
+      "name": "Ikenna Valentine",
+      "email": "ohukaiv@gmail.com",
+      "role": "Developer"
     }
   ],
   "support": {
@@ -20,7 +26,7 @@
     "source": "https://github.com/AsgardCms/Core"
   },
   "require": {
-    "php": ">=7.0.0",
+    "php": ">=7.0.0|^8.0|^8.1",
     "composer/installers": "~1.0",
     "nwidart/laravel-modules": "~2.0",
     "laravelcollective/html": "~5.5.0",
