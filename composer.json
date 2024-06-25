@@ -35,7 +35,7 @@
     "mcamara/laravel-localization": "~1.1",
     "floatingpoint/stylist": "~0.5",
     "maatwebsite/laravel-sidebar": "~2.1",
-    "yajra/laravel-datatables-oracle": "~9.2",
+    "yajra/laravel-datatables-oracle": "~10.2",
     "tightenco/ziggy": "~0.4"
   },
   "require-dev": {
